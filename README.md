@@ -19,7 +19,7 @@ We continue this by trying to run the original script for 2018 and got it runnin
 ![green_stocks_2018 png](https://user-images.githubusercontent.com/98680133/156954421-02a290ab-3496-4541-becc-189979cd6591.png)
 ![VBA_Challange_2018 png](https://user-images.githubusercontent.com/98680133/156954423-6703012f-abce-48a4-bc2f-46509c5d8b60.png)
 
-### End results
+## End results
 
 These results are showing that refactoring is a huge advantage for running code because this does not add new functionality but it is making the code for efficient since it is taking fewer steps and using less memory to complete the task. 
 
