@@ -10,12 +10,12 @@ We are performing a refactor analysis on a VBA Challenge data to understand how 
 The results to this project was from comparing the stock performance between 2017 and 2018 with understanding the execution times of the original script and refactored script.
 
 ### 2017 Stocks Analysis
-We ran the original script for 2017 - i was able to get the code to run in 0.6328125 seconds as seen below. But when i ran the refactored script - it ran in 0.046875 seconds. The refactored scripted ran 10x seconds faster then the original script for 2017.
+The performance for the 2017 stocks had a great return year overall. Out of the 12 tickers, only 1 of them which was TERP, had a negative return of 7.21%. The rest of the tickers had a postive return. We ran the original script for 2017 - I was able to get the code to run in 0.6328125 seconds as seen below. But when i ran the refactored script - it ran in 0.046875 seconds. The refactored scripted ran 10x seconds faster then the original script for 2017.
 ![green_stocks_2017 png](https://user-images.githubusercontent.com/98680133/156954158-74167fb9-0fd8-48c5-8b7f-735cdffa4d88.png)
 ![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/98680133/156954163-a7fd3f45-3e3d-4973-abc0-74f316083301.png)
 
 ### 2018 Stocks Analysis
-We continue this by trying to run the original script for 2018 and got it running it in 0.6328125 seconds and when we run the refactored script after we see it was run in 0.46875 seconds. Again, its showing that it ran 10x seconds faster then the original script for 2018.
+The performance of the 2018 stocks had a bad return year overall. Only 2 of the 12 tickers had a postive return, which were ENPH (+81.9% return) and RUN (+84% return).The rest of the tickers were negative. We do round two of running the original script for 2018 and got it running it in 0.6328125 seconds and when we run the refactored script after we see it was run in 0.46875 seconds. Again, its showing that it ran 10x seconds faster then the original script for 2018.
 ![green_stocks_2018 png](https://user-images.githubusercontent.com/98680133/156954421-02a290ab-3496-4541-becc-189979cd6591.png)
 ![VBA_Challange_2018 png](https://user-images.githubusercontent.com/98680133/156954423-6703012f-abce-48a4-bc2f-46509c5d8b60.png)
 
